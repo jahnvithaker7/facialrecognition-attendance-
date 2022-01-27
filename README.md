@@ -3,9 +3,9 @@
 A python GUI integrated system which takes attendance using facial recognition technique.
 
 TECHNOLOGY USED:
-tkinter for whole GUI
-OpenCV for taking images and face recognition.
-CSV, Numpy, Pandas, datetime etc. for other purposes.
+-tkinter for whole GUI
+-OpenCV for taking images and face recognition.
+-CSV, Numpy, Pandas, datetime etc. for other purposes.
 
 FEATURES:
 Interactive GUI support.
